@@ -57,11 +57,11 @@ public class Game {
 		this.id = id;
 	}
 
-	public String getTittle() {
+	public String getTitle() {
 		return title;
 	}
 
-	public void setTittle(String tittle) {
+	public void setTitle(String tittle) {
 		this.title = tittle;
 	}
 
